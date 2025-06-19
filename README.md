@@ -1,3 +1,5 @@
 ## WebSite con Git
 
-Este es la primera web con git y github
++ Este es la primera web con git y github
+
++ Carga realizada desde consola GIT
