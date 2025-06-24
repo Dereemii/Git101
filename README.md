@@ -1,3 +1,3 @@
 ## WebSite con Git
 
-Este es la primera web con git y github
+Este es la asignación numero 1 con git y github de programación full stack 
